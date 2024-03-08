@@ -20,10 +20,6 @@ Nelson_Mandela
 
 # USAGE 
 
-# Clone the Repository:
-git clone https://github.com/your-username/speaker-recognition-mfcc.git
-cd speaker-recognition-mfcc
-
 # Install Dependencies:
 pip install -r requirements.txt
 
