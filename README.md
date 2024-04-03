@@ -30,6 +30,8 @@ python speakeridentification.py
 # Prediction:
 python answer.py
 
+# Run
+
 # Note
 Ensure that your dataset is organized with each speaker's audio samples in a separate folder.
 
