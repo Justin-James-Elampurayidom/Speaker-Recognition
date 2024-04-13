@@ -11,7 +11,11 @@ This script demonstrates how to use the trained model to predict the speaker of 
 # Dataset
 The dataset consists of audio samples from the following speakers:
 
-
+Benjamin_Netanyau
+Jens_Stoltenberg
+Julia_Gillard
+Magaret_Tarcher
+Nelson_Mandela
 
 The dataset is taken from Kaggle https://www.kaggle.com/kongaevans/speaker-recognition-dataset 
 
